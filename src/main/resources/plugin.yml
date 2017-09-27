@@ -1,0 +1,5 @@
+name: BungeeControl
+main: com.github.JHXSMatthew.Core
+version: 1.0
+depends: [BCRedisConnector, RedisBungee]
+author: MatthewYu
